@@ -1,10 +1,10 @@
-## Hi there 👋
-Olá, eu sou Matheus Prudente Trevigno
+## Hello Wolrd 👋
+Olá, eu sou Nicolas Silva Previato
 🏫 Sou um estudante do 3° ano do ensino médio.
 👨‍🎓 Cursando desenvolvimento de sistema.
 🌎 Sorocaba-SP
 👤 17 anos
-💻 Aprendendo no curso
+💻 Aprendendo ADS
 📁 FrontEnd
 📁 Python
 📁 CSS
@@ -14,20 +14,6 @@ Olá, eu sou Matheus Prudente Trevigno
 📁 Atividades de python:
 📁 Atividades de portugol:
 📫 Contatos
-✉️ Email: matheusprutrevigno292@gmail.com
-📞 Telefone: +55 (15)99856-0050
+✉️ Email: silvapreviatonicolas@gmail.com
+📞 Telefone: +55 (15)996891028
 Sempre aberto a colaborações e novos desafios! 🚀
-<!--
-**nicolas2349/nicolas2349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
