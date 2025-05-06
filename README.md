@@ -1,4 +1,4 @@
-## Olá, eu sou Nicolas Silva Previato
+## Olá, eu sou o nNicolas
 - 🏫 Sou um estudante do 3° ano do ensino médio.
 - 👨‍🎓 Cursando desenvolvimento de sistema.
 - 🌎 Sorocaba-SP
