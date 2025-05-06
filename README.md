@@ -1,4 +1,4 @@
-## Olá, eu sou o nNicolas
+## Olá, eu sou o Nicolas
 - 🏫 Sou um estudante do 3° ano do ensino médio.
 - 👨‍🎓 Cursando desenvolvimento de sistema.
 - 🌎 Sorocaba-SP
